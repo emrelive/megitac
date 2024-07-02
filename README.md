@@ -1,3 +1,3 @@
-# Welcome to Microblog!
+Megitac projesine hoış geldiniz.
 
-This is an example application featured in my [Flask Mega-Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world). See the tutorial for instructions on how to work with it.
+Bu uygulama bir okul projesi kapsamında 30 Haziran 2024 tarihinde oluşturulmaya başlanmıştır.
